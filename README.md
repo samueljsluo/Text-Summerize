@@ -20,23 +20,32 @@ And in various parts of the country others, still, are able to get a dose of a v
 ```
 
 * PyTextRank with SpaCy
-`SINCE PRESIDENT JOE Biden on March 11 directed that states make every adult eligible for a coronavirus vaccine by May 1, many states have ramped up their vaccine rollouts; 
+
+```
+SINCE PRESIDENT JOE Biden on March 11 directed that states make every adult eligible for a coronavirus vaccine by May 1, many states have ramped up their vaccine rollouts; 
 moving up dates and announcing new eligibility to meet the president's timeline.
 For the majority of states, elderly populations and health care workers have been prioritized, with eligibility being opened up to those with certain high-risk medical conditions and other essential workers more recently.
 But vaccine rollouts vary by state.
 But just because states make certain populations eligible does not mean those individuals will secure a vaccine anytime soon, and some populations will continue to be prioritized above others, depending on the state's approach.
-Regardless of approach, some individuals across the country are getting vaccinated without necessarily having priority at the state level, as vaccine rollouts operate differently at the federal, state and county levels.`
+Regardless of approach, some individuals across the country are getting vaccinated without necessarily having priority at the state level, as vaccine rollouts operate differently at the federal, state and county levels.
+```
 
 * PageRank and Universal Sentence Embedding
-`Regardless of approach, some individuals across the country are getting vaccinated without necessarily having priority at the state level, as vaccine rollouts operate differently at the federal, state and county levels.
+
+```
+Regardless of approach, some individuals across the country are getting vaccinated without necessarily having priority at the state level, as vaccine rollouts operate differently at the federal, state and county levels.
 But just because states make certain populations eligible does not mean those individuals will secure a vaccine anytime soon, and some populations will continue to be prioritized above others, depending on the state's approach.
 SINCE PRESIDENT JOE Biden on March 11 directed that states make every adult eligible for a coronavirus vaccine by May 1, many states have ramped up their vaccine rollouts; moving up dates and announcing new eligibility to meet the president's timeline.
 All Arizonans 16 and older are eligible for a vaccine on March 24, and adults in Texas are eligible as of March 29.
-In Delaware, for example, those 50 and older are eligible for a vaccine at local pharmacies, but not with medical providers, or at hospitals.`
+In Delaware, for example, those 50 and older are eligible for a vaccine at local pharmacies, but not with medical providers, or at hospitals.
+```
 
 * Gensim Summarization
-`SINCE PRESIDENT JOE Biden on March 11 directed that states make every adult eligible for a coronavirus vaccine by May 1, many states have ramped up their vaccine rollouts; 
+
+```
+SINCE PRESIDENT JOE Biden on March 11 directed that states make every adult eligible for a coronavirus vaccine by May 1, many states have ramped up their vaccine rollouts; 
 Mississippi has since followed suit, with all individuals 16 and older becoming eligible on March 16, while West Virginia opened up eligibility to all adults on March 22.
 For the majority of states, elderly populations and health care workers have been prioritized, with eligibility being opened up to those with certain high-risk medical conditions and other essential workers more recently.
 But just because states make certain populations eligible does not mean those individuals will secure a vaccine anytime soon, and some populations will continue to be prioritized above others, depending on the state's approach.
-Regardless of approach, some individuals across the country are getting vaccinated without necessarily having priority at the state level, as vaccine rollouts operate differently at the federal, state and county levels.`
+Regardless of approach, some individuals across the country are getting vaccinated without necessarily having priority at the state level, as vaccine rollouts operate differently at the federal, state and county levels.
+```
