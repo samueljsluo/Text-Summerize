@@ -1,6 +1,6 @@
 # Text Summerize
  
-## This notebook aims to compare different libries of TextRank.
+## This notebook aims to compare different mathods of text summarization.
  
 Text: 
 
