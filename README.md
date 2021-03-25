@@ -30,7 +30,7 @@ But just because states make certain populations eligible does not mean those in
 Regardless of approach, some individuals across the country are getting vaccinated without necessarily having priority at the state level, as vaccine rollouts operate differently at the federal, state and county levels.
 ```
 
-* PageRank and Universal Sentence Embedding
+* TextRank and Universal Sentence Embedding
 
 ```
 Regardless of approach, some individuals across the country are getting vaccinated without necessarily having priority at the state level, as vaccine rollouts operate differently at the federal, state and county levels.
